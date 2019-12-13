@@ -1,6 +1,6 @@
-countdown = 0
-
-def countdown (x)
+def countdown (number)
   while countdown != 0
-    puts 
+    puts "#{number} SECOND(S)!"
+    countdown -= 1
+  end
 end
