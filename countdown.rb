@@ -1,4 +1,6 @@
 countdown = 0
 
-def countdown 
+def countdown (x)
+  while countdown != 0
+    puts 
 end
