@@ -1,3 +1,4 @@
-countdown = 
-def countdown
+countdown = 0
+
+def countdown 
 end
